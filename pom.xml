@@ -15,10 +15,6 @@
     </properties>
 
     <dependencies>
-        <dependency>
-            <groupId>net.sizovs</groupId>
-            <artifactId>pipelinr</artifactId>
-            <version>0.8</version>
-        </dependency>
+
     </dependencies>
 </project>
